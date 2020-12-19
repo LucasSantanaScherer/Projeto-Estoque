@@ -3,7 +3,8 @@
   <blockquote> O intúito do programa é fornecer uma solução de cadastro e gerenciamento de produtos através de um sistema intuitivo de funções.</blockquote>
  
 
-##Funções do programa
+Funções do programa
+-------------------
  
  - Cadastrar um produto.
 	
@@ -25,8 +26,8 @@
  
  
 
-##Arquivos neste repositório
-
+Arquivos neste repositório
+--------------------------
 
 *   __List__ : Interface para a classe "SinglyLinkedList".
 
@@ -48,8 +49,8 @@
 
 *   __ProdutoTest__ : Execução do programa.
 
-##Checklist de implementação
-
+Checklist de implementação
+--------------------------
 - [x] Produto
 - [x] Métodos funcionais durante execução
 - [ ] Métodos relacionados a quantificação dos produtos de um determinado estoque
